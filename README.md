@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manikantpandey
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on machine learningf
+- 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me ... 215ucm016@gbu.ac.in
 
 <!---
